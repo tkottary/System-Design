@@ -13,3 +13,5 @@ https://github.com/vasanthk/how-web-works
 
 https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/
 
+http://blog.gainlo.co/index.php/category/system-design-interview-questions/
+
