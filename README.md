@@ -16,3 +16,5 @@ https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/
 http://blog.gainlo.co/index.php/category/system-design-interview-questions/
 
 #### https://raft.github.io/
+
+https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/
